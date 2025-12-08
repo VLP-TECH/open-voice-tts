@@ -1,0 +1,1 @@
+Coloca aquí tu archivo de voz de referencia, por ejemplo 'chaume.wav', grabado con buena calidad (10-30 segundos, sin música).

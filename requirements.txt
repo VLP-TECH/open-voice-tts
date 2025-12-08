@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+numpy
+torch
+torchaudio
+pydub
+librosa
+tqdm
+unidecode
+langid
+jieba
+cn2an
+pypinyin
+eng_to_ipa
