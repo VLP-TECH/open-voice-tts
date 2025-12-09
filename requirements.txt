@@ -12,3 +12,4 @@ jieba
 cn2an
 pypinyin
 eng_to_ipa
+python-multipart
